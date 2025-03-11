@@ -1,0 +1,16 @@
+adx_accountrelationship: 
+adx_append: true
+adx_appendto: false
+adx_childTablePermissions: []
+adx_contactrelationship: 
+adx_create: true
+adx_delete: false
+adx_entitylogicalname: annotation
+adx_entityname: Contact Form_Attachment
+adx_entitypermission_webrole: []
+adx_entitypermissionid: c5f00b3f-8b80-4c31-bc23-08ae2e1fb48d
+adx_parententitypermission: 74f904fe-694d-478e-8b2c-7f44339b3be5
+adx_parentrelationship: contact_Annotations
+adx_read: false
+adx_scope: 756150003
+adx_write: false

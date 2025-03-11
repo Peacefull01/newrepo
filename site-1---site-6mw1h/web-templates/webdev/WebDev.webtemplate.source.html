@@ -1,0 +1,86 @@
+{% include 'head' %}
+
+<body>
+    <!-- Header Section -->
+
+    {% include 'HeaderTemplate' %}
+
+
+
+    <!-- Banner Section -->
+    <section class="overlay">
+        <div class="banner w-100 "
+            style="background-image: url('/banner.jpg'); background-position: cover; background-repeat: no-repeat;">
+            <h1 class="text-light w-75">Bridging Technology & Performance – Data-Driven Growth with ByteBridges</h1>
+            <p class="text-light w-75">Optimize your digital ecosystem with real-time insights, scalable solutions, and
+                measurable KPIs for sustainable success.</p>
+        </div>
+    </section>
+
+    <!-- Two-Column Section -->
+    <section class="container my-5 two-column-section">
+        <div class="row align-items-center">
+            <div class="col-md-6">
+                <img src="/auth.jpg" alt="Development">
+            </div>
+            <div class="col-md-6">
+                <h2>Why Choose Power Portal Apps?</h2>
+                <p>Power Pages empowers businesses to create feature-rich, scalable, and secure web applications with
+                    minimal coding.
+                    It enables seamless integration with Microsoft services, making it a powerful tool for digital
+                    transformation.</p>
+                <ul>
+                    <li><strong>Low-Code Development:</strong> Build applications quickly using drag-and-drop
+                        components, reducing development time and costs.</li>
+                    <li><strong>Seamless Microsoft Ecosystem Integration:</strong> Easily connect with Dataverse, Power
+                        Automate, SharePoint, and Dynamics 365 to streamline workflows.</li>
+                    <li><strong>Advanced Security & Role-Based Access:</strong> Ensure data protection with Azure AD
+                        authentication, multi-factor authentication, and granular user permissions.</li>
+                    <li><strong>Responsive & Mobile-Friendly:</strong> Create websites that work seamlessly across
+                        desktops, tablets, and mobile devices.</li>
+                    <li><strong>AI-Powered Enhancements:</strong> Leverage AI-driven analytics and automation with Power
+                        Automate and AI Builder.</li>
+                    <li><strong>Customization & Extensibility:</strong> Extend functionality using custom code, APIs,
+                        and external data connectors.</li>
+                    <li><strong>Scalability & Performance:</strong> Power Pages are designed to handle high traffic,
+                        ensuring a smooth user experience for businesses of all sizes.</li>
+                </ul>
+
+            </div>
+        </div>
+    </section>
+    
+
+    <!-- Features Section -->
+    <section class="container my-5">
+        <h2 class="text-center mb-4">Key Features of Power Pages</h2>
+        <div class="row">
+            <div class="col-md-4 feature-item">
+                <img class="gridbox" src="/custom.jpg" alt="Security">
+                <h5>Secure Authentication</h5>
+                <p>Role-based access control with Azure AD & OAuth.</p>
+            </div>
+            <div class="col-md-4 feature-item">
+                <img class="gridbox" src="/custom.jpg" alt="Dataverse">
+                <h5>Dataverse Integration</h5>
+                <p>Manage and store data efficiently with Microsoft Dataverse.</p>
+            </div>
+            <div class="col-md-4 feature-item">
+                <img class="gridbox" src="/custom.jpg" alt="Customization">
+                <h5>Custom UI & Branding</h5>
+                <p>Fully customizable layouts, themes, and templates.</p>
+            </div>
+        </div>
+    </section>
+     <section>
+        <div class="col-md-4 mx-auto">
+            {% entityform name: 'Contact form123' %}
+        </div>
+     </section>
+    <h4>bbb</h4>
+    <!-- Footer Section -->
+    {% include 'FooterTemplate' %}
+
+
+
+</body>

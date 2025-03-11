@@ -1,0 +1,10 @@
+adx__adx_processid_value: 90c9c014-5aef-ef11-be20-000d3af2e268
+adx_adx_CloudFlowConsumer_adx_webrole:
+- []
+- []
+- []
+adx_adx_flowapiurl: /_api/cloudflow/v1.0/trigger/90c9c014-5aef-ef11-be20-000d3af2e268
+adx_adx_flowtriggerurl: ''
+adx_adx_metadata: ''
+adx_cloudflowconsumerid: 753c0166-5aef-ef11-be20-000d3af2e268
+adx_name: PowerPages -> Add a new row,Return value(s) to Power Pages

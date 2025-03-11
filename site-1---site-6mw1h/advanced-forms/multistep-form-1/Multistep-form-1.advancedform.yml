@@ -1,0 +1,8 @@
+adx_editexistingrecordpermitted: true
+adx_multiplerecordsperuserpermitted: true
+adx_name: Multistep form 1
+adx_progressindicatorenabled: true
+adx_progressindicatorposition: 756150000
+adx_webformid: 4cd4fa1c-0f3a-4cfe-addc-22f30da54420
+adx_webFormSteps:
+- []

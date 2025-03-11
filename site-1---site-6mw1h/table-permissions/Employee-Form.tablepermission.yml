@@ -1,0 +1,19 @@
+adx_accountrelationship: 
+adx_append: true
+adx_appendto: true
+adx_childTablePermissions: []
+adx_contactrelationship: 
+adx_create: true
+adx_delete: true
+adx_entitylogicalname: em_employeeprofile
+adx_entityname: Employee Form
+adx_entitypermission_webrole:
+- 5f7059c1-829e-457a-b0f6-d93adff19ddc
+- a25ac51a-b521-4968-895c-06b4a1c343a1
+- c56b17ac-e606-4d2a-8d88-f749f1d8d845
+adx_entitypermissionid: 1d3a4c3e-fb5d-4e11-99aa-3bc7ae2f82fe
+adx_parententitypermission: 
+adx_parentrelationship: 
+adx_read: true
+adx_scope: 756150000
+adx_write: true

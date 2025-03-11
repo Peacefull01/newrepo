@@ -1,0 +1,16 @@
+- adx_name: Restrict Read on ContactUs
+  adx_right: 2
+  adx_scope: 1
+  adx_webpageaccesscontrolrule_webrole:
+  - 5f7059c1-829e-457a-b0f6-d93adff19ddc
+  adx_webpageaccesscontrolruleid: 18c47107-eb3d-5995-59b8-2fb3f31c5db0
+  adx_webpageid: 4d7454d8-0549-6e67-4015-d92cb3c56cab
+- adx_name: Grant Change to Content
+  adx_right: 1
+  adx_webpageaccesscontrolruleid: 5f568937-68c9-4620-a431-5e00d5007617
+- adx_name: Grant Change to Administrators
+  adx_right: 1
+  adx_webpageaccesscontrolrule_webrole:
+  - c56b17ac-e606-4d2a-8d88-f749f1d8d845
+  adx_webpageaccesscontrolruleid: d4961f87-d3de-4668-81f5-0160fd489a32
+  adx_webpageid: 04631eb2-5319-4db7-848a-6fe6bafa4c2a
